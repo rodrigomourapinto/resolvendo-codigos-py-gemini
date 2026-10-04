@@ -5,7 +5,7 @@ Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Gith
 ### Atenção ⚠️ 
 
 Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Que tal utilizar o [Google Gemini](https://gemini.google.com/app) como seu copiloto de estudos ??
 
 ## 1 - Concatenando Dados 🐾
 
